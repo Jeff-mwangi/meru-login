@@ -1,0 +1,67 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: white;
+}
+p{
+    color: aqua;
+}
+h5{
+    padding: 20px;
+    text-align: center;
+    color: white;
+    position: ;
+}
+.card{
+    height: auto;
+    position:absolute;
+    padding:;
+    margin-top: 130px;
+    border-radius: 5%;
+    width:auto;
+    margin-left:25%;
+    color: white;
+    background-color: rgb(23, 211, 95);
+}
+
+.log{
+    margin-top: -120px;
+    border-radius: 50px;
+    align-self: center;
+    width: 170px;
+    height: 170px;
+}
+.reset{
+    margin-left: 50%;
+    color:darkslategrey;
+}
+.reg{
+    font-style:initial;
+}
+input{
+    width:90%;
+    margin:4%;
+    height: 35px;
+    border-style: none;
+    border-radius: 2px;
+    border-color: none;
+}
+.login{
+    cursor:pointer;
+    border-color: black;
+    background-color: orange;
+    width:90%;
+}
+a{
+    color: black;
+}
+p{
+    margin-left: 20px;
+    color: white;
+}
+.lms{
+    cursor:pointer;
+    border-color: black;
+    background-color: orange;
+    width:90%;
+    color: white;
+}
